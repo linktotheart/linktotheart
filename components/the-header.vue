@@ -11,7 +11,7 @@
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal p-0">
-        <li><a>About</a></li>
+        <li><a class="font-medium">#about</a></li>
         <!-- <li tabindex="0">
           <a>
             Parent
@@ -24,9 +24,9 @@
             <li><a>Submenu 2</a></li>
           </ul>
         </li> -->
-        <li><a>Blogs</a></li>
-        <li><a>Work</a></li>
-        <!-- <li><a>Contact</a></li> -->
+        <li><a>#blogs</a></li>
+        <li><a>#works</a></li>
+        <li><a>#contact</a></li>
       </ul>
     </div>
   </div>
