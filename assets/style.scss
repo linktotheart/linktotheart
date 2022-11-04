@@ -1,0 +1,21 @@
+// <style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&display=swap');
+// </style>
+body {
+	font-family: 'Fira Code', monospace;
+	--rounded-box:0rem;
+	--rounded-btn: 00rem; 
+	--rounded-badge: 0rem; 
+	--animation-btn: 0.25s;
+	--animation-input: 0.2s; // duration of animation for inputs like checkbox; toggle; radio; etc
+	--btn-text-case: uppercase; // set default text transform for buttons
+	--btn-focus-scale: 0.95; // scale transform of button when you focus on it
+	--border-btn: 1px; // border width of buttons
+	--tab-border: 1px; 
+	--tab-radius: 00rem;
+
+	.container {
+		max-width: 1024px;
+		margin: 0 auto;
+	}
+}
