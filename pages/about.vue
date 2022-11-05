@@ -50,7 +50,9 @@
 					</svg>
 				</div>
 			</div>
-
+		</div>
+		<div class="mt-10 py-8 flex lg:mt-16 mb-16">
+			<Quote class="ml-auto" cite="Katharine Whitehorn" quote="Find out what you like doing best, and get someone to pay you for it." />
 		</div>
 	</div>
 </template>
