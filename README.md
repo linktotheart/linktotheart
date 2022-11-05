@@ -40,8 +40,8 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=eddumundia&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eddumundia">
+  <img src = "https://github-readme-stats.vercel.app/api?username=linktotheart&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=linktotheart">
 </p>
 
 
