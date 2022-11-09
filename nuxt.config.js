@@ -35,7 +35,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/tailwindcss',
-    '@nuxt/image'
+    '@nuxt/image',
+    '@nuxtjs/google-fonts'
     // https://go.nuxtjs.dev/tailwindcss
   ],
 
@@ -68,5 +69,18 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+
+  // googleFonts: {
+  //   families: {
+  //     // Roboto: true,
+  //     "Fira+Code": [400,500,600,700],
+  //     // display: 'swap', // 'auto' | 'block' | 'swap' | 'fallback' | 'optional'
+  //     // default: 'mono',
+  //     'Source+Code+Pro': true,
+  //     // Lato: [100, 300],
+  //     prefetch: true,
+
+  //   }
+  // }
 }
