@@ -86,7 +86,6 @@
 <script>
 import AboutMe from '~/components/about-me.vue'
 import sectionHeader from '~/components/section-header.vue'
-import Storyblok from '~/plugins/storyblok'
 export default {
   components: { sectionHeader, AboutMe },
   name: 'IndexPage',
@@ -97,16 +96,11 @@ export default {
     }
   },
   async mounted() {
-    await this.fetchAllBlogPosts()
+    await this.$store.dispatch('fetchPosts')
+    this.posts = this.$store.getters.getPosts || []
   },
   methods: {
-    async fetchAllBlogPosts() {
-      const token = process.env.VUE_APP_AUTH_TOKEN
-      console.log('token', token)
-      // const { data } = await this.$axios.$get(`/v1/cdn/stories?starts_with=posts/`)
-      // console.log(data)
-      // this.posts = data.stories
-    }
+    
   }
 }
 </script>

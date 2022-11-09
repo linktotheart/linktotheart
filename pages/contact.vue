@@ -5,8 +5,6 @@
 		<div class="px-4">
 			<contact />
 		</div>
-		<br>
-		<br>
 		<section-header title="follow me" />
 
 	</div>
@@ -21,7 +19,6 @@ export default {
 }
 </script>
 
-<s
-SectionHeadertyle>
+<style>
 
 </style>

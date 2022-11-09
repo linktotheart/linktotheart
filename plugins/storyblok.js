@@ -1,4 +1,4 @@
-// const StoryblokClient = require('storyblok-js-client')
+// import StoryblokClient from 'storyblok-js-client'
 
 // // init with access token
 // const Storyblok = new StoryblokClient({
@@ -8,4 +8,5 @@
 //     type: 'memory'
 //   }
 // })
+// console.log('Storyblok', Storyblok)
 // export default Storyblok
