@@ -7,7 +7,7 @@
     <section-header title="projects" :viewBtn="true" />
 
     <div class="px-4 container mx-auto my-20">
-      <div class="grid lg:grid-cols-3 gap-4 lg:gap-8">
+      <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
         <blog-card v-for="i in 6" :key="i"></blog-card>
       </div>
     </div>
@@ -45,7 +45,7 @@
             <circle cx="82" cy="82" r="2" fill="currentColor" />
           </svg>
         </div>
-        <div class="bg absolute -z-1 bottom-0 animate-pulse left-0">
+        <div class="bg absolute -z-1 bottom-0  hidden lg:block animate-pulse left-0">
           <svg width="156" height="156" viewBox="0 0 156 156" fill="none" xmlns="http://www.w3.org/2000/svg">
             <mask id="path-1-inside-1_64_1298" fill="white">
               <path fill-rule="evenodd" clip-rule="evenodd"

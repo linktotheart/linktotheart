@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-	<div class="grid px-4  items-end mb-8 lg:grid-cols-3">
-		<div class="col-span-2 flex flex-col gap-4 text-primary">
+	<div class="grid px-4  items-end mb-8 md:grid-cols-2 lg:grid-cols-3">
+		<div class="lg:col-span-2 flex flex-col gap-4 text-primary">
 			<p>
 				Hello, i’m Pulkit! 
 			</p>
@@ -42,7 +42,7 @@
 <circle cx="102" cy="54" r="2" fill="#C778DD"/>
 				</svg>
 			</div>
-			<figure>
+			<figure class="mx-auto md:mx-0">
 				<nuxt-img class="filter grayscale transform  " src="/img/pulkitsingh.png" />
 			</figure>
 		</div>

@@ -16,7 +16,7 @@
       </p>
       <div class="flex gap-x-4">
         <button class="btn btn-sm btn-outline btn-primary px-4">Live => </button>
-        <button class="btn btn-sm btn-outline btn-primary px-4">Cached >= </button>
+        <button class="btn btn-sm btn-outline btn-secondary px-4">Cached >= </button>
       </div>
     </div>
   </div>

@@ -6,11 +6,8 @@
       </div>
       <div class="flex-none">
         <ul class="menu menu-horizontal p-0">
-          <li>
-            <nuxt-link to="/">home</nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/about">about-me</nuxt-link>
+          <li v-for="nav in navigation" :key="nav.name">
+            <nuxt-link :to="nav.link">{{nav.name}}</nuxt-link>
           </li>
           <!-- <li tabindex="0">
             <nuxt-link>
@@ -24,7 +21,7 @@
               <li><nuxt-link>Submenu 2</nuxt-link></li>
             </ul>
           </li> -->
-          <li>
+          <!-- <li>
             <nuxt-link to="/blogs">blogs</nuxt-link>
           </li>
           <li>
@@ -32,7 +29,7 @@
           </li>
           <li>
             <nuxt-link to="/contact">contact</nuxt-link>
-          </li>
+          </li> -->
           <li v-if="false"><a>
               <label class="swap swap-rotate" @click="toggleDarkMode">
 
@@ -53,7 +50,6 @@
 
               </label>
             </a></li>
-          <!-- <li><a>Contact</a></li> -->
         </ul>
       </div>
     </div>
@@ -62,6 +58,17 @@
 
 <script>
 export default {
+  data() {
+    return {
+      navigation: [
+        {name:'home', link: '/'},
+        {name:'blogs', link: '/blogs'},
+        {name:'works', link: '/works'},
+        {name:'about-me', link: '/about'},
+        {name:'contact', link: '/contact'},
+      ]
+    }
+  },
   methods: {
     toggleDarkMode() {
       const html_tag = document.getElementsByTagName('html')
@@ -81,16 +88,7 @@ export default {
 
 <style lang="scss">
 .navbar {
-  &::before {
-    content: '';
-    // background: #000;
-    @apply bg-base-100;
-    position: absolute;
-    inset: 0;
-    // opacity: 0.31;
-    z-index: -1;
-    filter: blur(1px)
-  }
+  backdrop-filter: blur(10px);
 
   .menu {
     li {

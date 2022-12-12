@@ -6,12 +6,12 @@
 		<div class="mx-auto my-8 opacity-20 animate-spin border-0 border-t border-primary lg:w-1/3 w-1/2"></div>
 
 		<section-header :title="'skills'" />
-		<div class="grid gap-4 grid-flow- lg:grid-cols-4 px-4">
+		<div class="grid gap-4 md:grid-cols-3 grid-cols-2 lg:grid-cols-4 px-4">
 			<Skill v-for="item in  skills" :key="item.id" :title="item.title" :skills="item.skills" />
 		</div>
 
 		<section-header :title="'fun-facts'" />
-		<div class="grid lg:grid-cols-3 px-4">
+		<div class="grid lg:grid-cols-3 sm:grid-cols-2  px-4">
 			<div class="facts col-span-2 gap-4 flex flex-wrap">
 				<span v-for="fct in facts" :key="fct" class="badge badge-outline badge-lg badge-info font-mono px-3" v-text="fct" />
 			</div>

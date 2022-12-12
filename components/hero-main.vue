@@ -1,9 +1,9 @@
 <template>
-  <div class="hero mt-24  bg-base-100">
+  <div class="hero mt-12 lg:mt-24  bg-base-100">
     <div
       class="hero-content container mx-auto flex-col w-full justify-between lg:flex-row-reverse"
     >
-      <div class="flex items-center bg-base-100 relative ">
+      <div class="flex items-center bg-base-100 relative mb-8 lg:mb-0">
         <div class="bg absolute -z-1 bottom-1 animate-bounce left-0">
           <svg width="156" height="156" viewBox="0 0 156 156" fill="none" xmlns="http://www.w3.org/2000/svg">
             <mask id="path-1-inside-1_64_1298" fill="white">
@@ -56,7 +56,7 @@
 
       <div class="max-w-xl flex flex-col items-center lg:items-start">
         <!-- <div class="badge">Hey!!!!</div> -->
-        <h1 class="text-4xl font-bold">
+        <h1 class="text-4xl font-bold  text-center lg:text-left">
           <!-- I'm <span class="text-primary">Pulkit Singh</span> -->
           Pulkit is a <span class="text-primary">web designer</span> and <span class="text-primary">front-end developer</span>
         </h1>

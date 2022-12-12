@@ -1,7 +1,7 @@
 <template>
-  <div class="grid grid-cols-2">
+  <div class="grid grid-cols-2 gap-4 lg:gap-8">
 	<div class="flex flex-col">
-		<p class="text-primary mb-4">
+		<p class="text-primary mb-4 lg:mb-6">
 			<!-- I’m interested in freelance opportunities. -->
 			Share a cup of coffee / Ask me a question? / Get to know me,or if you have other request, don’t hesitate to contact me
 		</p>
