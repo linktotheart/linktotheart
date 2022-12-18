@@ -2,7 +2,6 @@
   <div class="container bg-base-100 mx-auto">
 	<div class="card ">
 		{{$route.params.slug}}
-
 	</div>
   </div>
 </template>

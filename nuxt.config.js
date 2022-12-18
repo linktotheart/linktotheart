@@ -1,4 +1,3 @@
-import { node } from "webpack";
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
