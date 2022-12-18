@@ -36,7 +36,6 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
-    '@nuxtjs/google-fonts'
     // https://go.nuxtjs.dev/tailwindcss
   ],
 
@@ -46,6 +45,7 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    '@nuxt/content',
 
   ],
 

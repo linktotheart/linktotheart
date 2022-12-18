@@ -8,7 +8,7 @@
 
     <div class="px-4 container mx-auto my-20">
       <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
-        <blog-card v-for="i in 6" :key="i"></blog-card>
+        <project-card v-for="i in 6" :key="i"></project-card>
       </div>
     </div>
 
@@ -96,8 +96,7 @@ export default {
     }
   },
   async mounted() {
-    await this.$store.dispatch('fetchPosts')
-    this.posts = this.$store.getters.getPosts || []
+   
   },
   methods: {
     

@@ -63,7 +63,7 @@ export default {
       navigation: [
         {name:'home', link: '/'},
         {name:'blogs', link: '/blogs'},
-        {name:'works', link: '/works'},
+        {name:'works', link: '/projects'},
         {name:'about-me', link: '/about'},
         {name:'contact', link: '/contact'},
       ]
