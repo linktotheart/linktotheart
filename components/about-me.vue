@@ -42,9 +42,9 @@
 <circle cx="102" cy="54" r="2" fill="#C778DD"/>
 				</svg>
 			</div>
-			<figure class="mx-auto md:mx-0">
+			<!-- <figure class="mx-auto md:mx-0">
 				<nuxt-img class="filter grayscale transform  " src="/img/pulkitsingh.png" />
-			</figure>
+			</figure> -->
 		</div>
 	</div>
   </div>

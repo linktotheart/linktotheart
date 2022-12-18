@@ -8,7 +8,7 @@
 
     <div class="px-4 container mx-auto my-20">
       <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
-        <project-card v-for="i in 6" :key="i"></project-card>
+        <project-card v-for="i in all_projects" :data="i" :key="i"></project-card>
       </div>
     </div>
 
@@ -92,11 +92,18 @@ export default {
   layout: 'default',
   data() {
     return {
-      posts: []
+      posts: [],
+      all_projects: []
     }
   },
   async mounted() {
-   
+    try {
+			const all_projects = await this.$content(`projects`).fetch()
+			this.all_projects = all_projects
+			console.log(all_projects);
+		} catch (error) {
+			console.log('error', error)
+		}
   },
   methods: {
     
