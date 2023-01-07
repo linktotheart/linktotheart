@@ -8,7 +8,7 @@
 
     <div class="px-4 container mx-auto my-20">
       <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
-        <project-card v-for="i in all_projects" :data="i" :key="i"></project-card>
+        <project-card v-for="i in all_projects" :data="i" :key="i.title"></project-card>
       </div>
     </div>
 
@@ -66,7 +66,7 @@
           </svg>
         </div>
       </div>
-      <div class="skills  col-span-2 grid grid-rows-3 grid-cols-3 gap-4 ">
+      <div class="skills   grid lg:grid-rows-3 lg:grid-cols-3 md:grid-rows-2 md:grid-cols-2 grid-cols-2 gap-4 ">
         <Skill v-for="i in 6" :key="i" :title="'languages' + i"
           :skills="['typeScript', 'Lua', 'JavaScript', 'Python', 'C#']" />
       </div>
