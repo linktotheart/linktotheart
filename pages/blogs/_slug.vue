@@ -1,5 +1,5 @@
 <template>
-	<div class="max-w-2xl px-6 py-16 mx-auto space-y-12">
+	<div class="max-w-2xl px-6 py-16 mx-auto space-y-12 bg-base-200">
 		<article class="space-y-8 text-gray-50">
 			<div class="space-y-6" v-if="post">
 				<h1 class="text-4xl font-bold md:tracking-tight md:text-5xl"  v-text="post.title"/>
@@ -10,7 +10,7 @@
 					<p class="flex-shrink-0 mt-3 text-sm md:mt-0">{{ post.reading_time_minutes }} min read • {{ post.public_reactions_count }} views</p>
 				</div>
 			</div>
-			<div class="text-gray-100 prose-lg prose-headings:font-bold prose-blockquote:bg-slate-800 prose-code:font-mono" v-html="post.body_html"></div>
+			<div class="text-gray-100 prose-lg prose-headings:font-bold prose-blockquote:bg-slate-800" v-html="post.body_html"></div>
 		</article>
 		<div>
 			<div class="flex flex-wrap py-6 space-x-2 border-t border-dashed border-gray-400">

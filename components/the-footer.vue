@@ -12,11 +12,12 @@
         </div>
 
 
-        <div class="flex">
-          <h2 class="font-medium text-lg lg:text-xl">Media</h2>
+        <div class="flex flex-col">
+          <h2 class="font-medium text-lg lg:text-xl">#follow</h2>
+          <social />
         </div>
 
-        <div class="flex w-full mt-4 lg:mt-8">
+        <div class="flex w-full mt-4 lg:mt-10">
           <span class="mx-auto text-primary">© Copyright 2022. Made by Pulkit </span>
         </div>
     </div>
