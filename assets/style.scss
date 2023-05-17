@@ -4,6 +4,7 @@
 @import url('./css/fonts.css');
 /// <scroll bars >
 /// 	/* Firefox */
+
 * {
 	scrollbar-width: thin;
 	scrollbar-color: #C778DD #DFE9EB;
@@ -19,9 +20,9 @@
 	background-color:  hsla(var(--b1));
   }
   
-  *::-webkit-scrollbar-track:hover {
-	background-color: #B8C0C2;
-  }
+//   *::-webkit-scrollbar-track:hover {
+// 	background-color: #B8C0C2;
+//   }
   
   *::-webkit-scrollbar-track:active {
 	background-color: #B8C0C2;
@@ -64,5 +65,6 @@ body {
 		text-transform: none;
 	}
 
-  
+
+
 }

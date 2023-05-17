@@ -18,7 +18,7 @@
 			</div>
 		</div>
 		<div class="flex relative">
-			<div class="absolute animate-bounce " :class="i == 1 ? 'bottom-0 left-0 delay-200' : 'top-4 right-0 ' " v-for="i in 2" :key="i">
+			<div class="absolute animate-bounce" :class="i == 1 ? 'bottom-0 left-0 delay-200 hidden lg:block' : 'top-4 right-0 ' " v-for="i in 2" :key="i">
 				<svg width="104" height="56" viewBox="0 0 104 56" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="2" cy="2" r="2" fill="#C778DD"/>
 <circle cx="27" cy="2" r="2" fill="#C778DD"/>

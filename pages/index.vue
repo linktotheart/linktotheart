@@ -4,7 +4,7 @@
     <hero-main />
     <Quote quote="With great power comes great electricity bill" cite="Dr. Who" />
 
-    <section-header title="projects" :viewBtn="true" />
+    <section-header title="projects" :viewBtn="true" @view="$router.push('/projects')"/>
 
     <div class="px-4 container mx-auto my-20">
       <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
@@ -16,7 +16,7 @@
     <div class="grid container px-4 lg:grid-cols-3 items-start gap-4">
       <!-- <div class="bg hidden md:flex relative bg-slate-50">jhfkhkdfhkusfbkusdbkbk</div> -->
       <div class="relative self-stretch">
-        <div class="dot animate-ping absolute text-primary top-0 right-4">
+        <!-- <div class="dot animate-ping  hidden xl:block  absolute text-primary top-0 right-0">
           <svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="2" cy="2" r="2" fill="currentColor" />
             <circle cx="22" cy="2" r="2" fill="currentColor" />
@@ -44,8 +44,8 @@
             <circle cx="62" cy="82" r="2" fill="currentColor" />
             <circle cx="82" cy="82" r="2" fill="currentColor" />
           </svg>
-        </div>
-        <div class="bg absolute -z-1 bottom-0  hidden lg:block animate-pulse left-0">
+        </div>   -->
+        <div class="bg absolute -z-1 bottom-0  hidden xl:block animate-pulse -left-4">
           <svg width="156" height="156" viewBox="0 0 156 156" fill="none" xmlns="http://www.w3.org/2000/svg">
             <mask id="path-1-inside-1_64_1298" fill="white">
               <path fill-rule="evenodd" clip-rule="evenodd"
