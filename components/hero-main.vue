@@ -17,7 +17,7 @@
             <path d="M77.5 1V0H76.5V1H77.5ZM155 1H156V0H155V1ZM155 117.25V118.25H156V117.25H155ZM77.5 117.25H76.5V118.25H77.5V117.25ZM77.5 78.5V77.5H76.5V78.5H77.5ZM116.25 78.5V79.5H117.25V78.5H116.25ZM116.25 39.75H117.25V38.75H116.25V39.75ZM77.5 39.75H76.5V40.75H77.5V39.75ZM116.25 0H77.5V2H116.25V0ZM155 0H116.25V2H155V0ZM156 39.75V1H154V39.75H156ZM156 78.5V39.75H154V78.5H156ZM156 117.25V78.5H154V117.25H156ZM116.25 118.25H155V116.25H116.25V118.25ZM116.25 116.25H77.5V118.25H116.25V116.25ZM78.5 117.25V78.5H76.5V117.25H78.5ZM77.5 79.5H116.25V77.5H77.5V79.5ZM115.25 39.75V78.5H117.25V39.75H115.25ZM77.5 40.75H116.25V38.75H77.5V40.75ZM76.5 1V39.75H78.5V1H76.5Z" fill="#C778DD" mask="url(#path-3-outside-2_64_1298)"/>
           </svg>
         </div>
-        <nuxt-img class="lg:max-w-sm p-1 lg:p-2 xl:max-w-md max-w-xs relative z-10" src="/img/pulkit (1).png" />
+        <nuxt-img title="pulkit singh" class="lg:max-w-sm min-[30rem]: p-1 lg:p-2 xl:max-w-md max-w-xs relative z-10" src="/img/pulkit (1).png" />
         <div class="p-2 text-xs whitespace-nowrap capitalize right-1/2 transform translate-x-1/2 bottom-0 absolute flex border border-primary">
           <span class="w-4 h-4 bg-primary mr-3"></span>
           currently working @ #Neotas
@@ -65,8 +65,8 @@
         </p>
         <!-- <p class="text-sm text-gray-500 ">Working at Neotas</p> -->
         <div class="flex space-x-4">
-          <button class="btn px-6 btn-outline btn-primary">Say Hello --> </button>
-          <button class="btn px-6 btn-outline ">About Me</button>
+          <nuxt-link class="btn px-6 btn-outline btn-primary" to="/contact">Say Hello --> </nuxt-link>
+          <nuxt-link class="btn px-6 btn-outline " to="/about">About Me</nuxt-link>
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
 <template>
  
-  <header class="sticky top-0 z-50 navbar dark:text-gray-100">
+  <header class="sticky bg-base-100 top-0 z-50 navbar dark:text-gray-100">
 		<div class="container flex justify-between relative mx-auto items-start md:items-center">
       <Logo />
 			<ul class="items-stretch md:flex md:flex-row menu md:menu-horizontal md:space-x-3 rounded md:rounded-none shadow-md md:shadow-none p-5 md:p-0" :class="showHeader ? 'flex md:flex justify-center absolute bg-base-300 w-full top-full flex-col md:flex-row' : 'hidden'">
@@ -60,7 +60,7 @@ export default {
 
 <style lang="scss">
 .navbar {
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(50px);
 
   .menu {
     li {

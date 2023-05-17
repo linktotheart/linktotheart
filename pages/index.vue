@@ -66,7 +66,7 @@
           </svg>
         </div>
       </div>
-      <div class="skills   grid lg:grid-rows-3 lg:grid-cols-3 md:grid-rows-2 md:grid-cols-2 grid-cols-2 gap-4 ">
+      <div class="skills lg:col-span-2  grid lg:grid-rows-3 lg:grid-cols-3 md:grid-rows-2 md:grid-cols-2 grid-cols-2 gap-4 ">
         <Skill v-for="i in 6" :key="i" :title="'languages' + i"
           :skills="['typeScript', 'Lua', 'JavaScript', 'Python', 'C#']" />
       </div>
