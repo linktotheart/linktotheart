@@ -8,7 +8,7 @@
 
     <div class="px-4 container mx-auto my-20">
       <div class="grid lg:grid-cols-3 md:grid-cols-2  gap-4 lg:gap-8">
-        <project-card v-for="i in all_projects" :data="i" :key="i.title"></project-card>
+        <project-card v-for="i in projects" :data="i" :key="i.uuid"></project-card>
       </div>
     </div>
 
@@ -67,8 +67,7 @@
         </div>
       </div>
       <div class="skills lg:col-span-2  grid lg:grid-rows-3 lg:grid-cols-3 md:grid-rows-2 md:grid-cols-2 grid-cols-2 gap-4 ">
-        <Skill v-for="i in 6" :key="i" :title="'languages' + i"
-          :skills="['typeScript', 'Lua', 'JavaScript', 'Python', 'C#']" />
+        <Skill v-for="item in  skills" :key="item.id" :title="item.title" :skills="item.skills" />
       </div>
     </div>
 
@@ -93,17 +92,45 @@ export default {
   data() {
     return {
       posts: [],
-      all_projects: []
+      projects: [],
+      all_projects: [],
+      skills: [
+				{
+					title: "languages",
+					skills: ['JavaScript','C#','Lua',"Python","Dart"]
+				},
+				{
+					title: "Databases",
+					skills: ['MongoDb','MySQL',"Postgres", "Firebase",]
+				},
+				{
+					title: "Frameworks",
+					skills: ['React','Vue',"Nuxt","Gatsby","Gridsome","Next","Express","Strapi"].map(el => el + '.js')
+				},
+				{
+					title: "Tools",
+					skills: ['NeoVim','Figma/Adobe XD',"XCFE","Arch/Mate", "Git","AWS Amplify",  "Photoshop", "Blender", "Unity3d"]
+				},
+				{
+					title: "Others",
+					skills: ['HTML','SCSS/CSS',"EJS/HandleBars","Rest", "Jinja", "Liquid"]
+				},
+				
+			],
     }
   },
-  async mounted() {
-    try {
-			const all_projects = await this.$content(`projects`).fetch()
-			this.all_projects = all_projects
-			console.log(all_projects);
-		} catch (error) {
-			console.log('error', error)
-		}
+  async created() {
+    // try {
+		// 	const all_projects = await this.$content(`projects`).fetch()
+		// 	this.all_projects = all_projects
+		// 	console.log(all_projects);
+		// } catch (error) {
+		// 	console.log('error', error)
+		// }
+    await this.$store.dispatch('fetchPosts')
+    this.projects = this.$store.getters.getPosts
+
+    console.log('this.$store.getters.getProjects', this.$store.getters.getPosts)
   },
   methods: {
     

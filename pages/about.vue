@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<page-header title="about-me" desc="who am i?"></page-header>
-		<about-me />
+		<about-me hideButton />
 
 		<div class="mx-auto my-8 opacity-20 animate-spin border-0 border-t border-primary lg:w-1/3 w-1/2"></div>
 

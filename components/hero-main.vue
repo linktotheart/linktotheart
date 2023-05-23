@@ -58,7 +58,7 @@
         <!-- <div class="badge">Hey!!!!</div> -->
         <h1 class="text-4xl font-bold  text-center lg:text-left">
           <!-- I'm <span class="text-primary">Pulkit Singh</span> -->
-          Pulkit is a <span class="text-primary">web designer</span> and <span class="text-primary">front-end developer</span>
+          Pulkit is a <span class="text-primary">visual designer</span> and <span class="text-primary">full-stack developer</span>
         </h1>
         <p class="py-8 text-primary text-center lg:text-left">
           He crafts responsive websites where technologies meet creativity!

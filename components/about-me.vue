@@ -8,11 +8,11 @@
 			<p>
 				I’m a self-taught front-end developer based in Delhi, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.  <br>
 			</p>
-			<p>
-				Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest <code>technologies</code>  and <code class="">frameworks</code>	.
+			<p >
+				Transforming my creativity and knowledge into a websites has been my passion for over 5 years now. I have been helping various clients to establish their presence online. I always strive to learn about the newest <code>technologies</code>  and <code class="">frameworks</code>	.
 			</p>
 			<div class="mt-4">
-				<nuxt-link class="btn btn-primary btn-outline px-8" to="/about">
+				<nuxt-link class="btn btn-primary btn-outline px-8" to="/about" v-if="!hideButton">
 					Read More --> 
 				</nuxt-link>
 			</div>
@@ -20,26 +20,26 @@
 		<div class="flex relative">
 			<div class="absolute animate-bounce" :class="i == 1 ? 'bottom-0 left-0 delay-200 hidden lg:block' : 'top-4 right-0 ' " v-for="i in 2" :key="i">
 				<svg width="104" height="56" viewBox="0 0 104 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="2" cy="2" r="2" fill="#C778DD"/>
-<circle cx="27" cy="2" r="2" fill="#C778DD"/>
-<circle cx="52" cy="2" r="2" fill="#C778DD"/>
-<circle cx="77" cy="2" r="2" fill="#C778DD"/>
-<circle cx="102" cy="2" r="2" fill="#C778DD"/>
-<circle cx="2" cy="19.3333" r="2" fill="#C778DD"/>
-<circle cx="27" cy="19.3333" r="2" fill="#C778DD"/>
-<circle cx="52" cy="19.3333" r="2" fill="#C778DD"/>
-<circle cx="77" cy="19.3333" r="2" fill="#C778DD"/>
-<circle cx="102" cy="19.3333" r="2" fill="#C778DD"/>
-<circle cx="2" cy="36.6667" r="2" fill="#C778DD"/>
-<circle cx="27" cy="36.6667" r="2" fill="#C778DD"/>
-<circle cx="52" cy="36.6667" r="2" fill="#C778DD"/>
-<circle cx="77" cy="36.6667" r="2" fill="#C778DD"/>
-<circle cx="102" cy="36.6667" r="2" fill="#C778DD"/>
-<circle cx="2" cy="54" r="2" fill="#C778DD"/>
-<circle cx="27" cy="54" r="2" fill="#C778DD"/>
-<circle cx="52" cy="54" r="2" fill="#C778DD"/>
-<circle cx="77" cy="54" r="2" fill="#C778DD"/>
-<circle cx="102" cy="54" r="2" fill="#C778DD"/>
+					<circle cx="2" cy="2" r="2" fill="#C778DD"/>
+					<circle cx="27" cy="2" r="2" fill="#C778DD"/>
+					<circle cx="52" cy="2" r="2" fill="#C778DD"/>
+					<circle cx="77" cy="2" r="2" fill="#C778DD"/>
+					<circle cx="102" cy="2" r="2" fill="#C778DD"/>
+					<circle cx="2" cy="19.3333" r="2" fill="#C778DD"/>
+					<circle cx="27" cy="19.3333" r="2" fill="#C778DD"/>
+					<circle cx="52" cy="19.3333" r="2" fill="#C778DD"/>
+					<circle cx="77" cy="19.3333" r="2" fill="#C778DD"/>
+					<circle cx="102" cy="19.3333" r="2" fill="#C778DD"/>
+					<circle cx="2" cy="36.6667" r="2" fill="#C778DD"/>
+					<circle cx="27" cy="36.6667" r="2" fill="#C778DD"/>
+					<circle cx="52" cy="36.6667" r="2" fill="#C778DD"/>
+					<circle cx="77" cy="36.6667" r="2" fill="#C778DD"/>
+					<circle cx="102" cy="36.6667" r="2" fill="#C778DD"/>
+					<circle cx="2" cy="54" r="2" fill="#C778DD"/>
+					<circle cx="27" cy="54" r="2" fill="#C778DD"/>
+					<circle cx="52" cy="54" r="2" fill="#C778DD"/>
+					<circle cx="77" cy="54" r="2" fill="#C778DD"/>
+					<circle cx="102" cy="54" r="2" fill="#C778DD"/>
 				</svg>
 			</div>
 			<!-- <figure class="mx-auto md:mx-0">
@@ -52,7 +52,12 @@
 
 <script>
 export default {
-
+	props: {
+		hideButton: {
+			default: false,
+			type: Boolean
+		}
+	}
 }
 </script>
 
