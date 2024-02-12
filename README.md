@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultraaaaviolent)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pulkitsingh302/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ultraaaaviolent/)
 
-<p>I'm an experienced  Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://neotas.com/" target="_blank" class="btn-link" >Neotas</a>. 
+<p>I'm an experienced  Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a>. 
 <!-- I have managed to work with different companies as software developer in different capacities which include;
 	<a href="https://www.aimgroup.co.tz/" target="_blank" class="btn-link">AIM Group Tanzania,</a>
 	<a href="https://web.facebook.com/iran.medical.clinic.kenya/"  target="_blank" class="btn-link">Iran Medical Clinic,</a>
