@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  ### Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a>
+  <h3> Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a> </h3>
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=linktotheart&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+  <a href="http://pulkits.netlify.app/"><img src="https://streak-stats.demolab.com?user=linktotheart&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ### Connect with me
@@ -30,15 +30,13 @@
 
 >  Let's create something amazing together!
 
-## Languages Used
+
+## Skills and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-## Skills and Frameworks
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -48,14 +46,13 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Databases
-
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## Tools
 
@@ -65,13 +62,10 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Tests
-
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A8E0A?style=for-the-badge&logo=pytest&logoColor=white)
 
-## Designs
+## Designing
 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
