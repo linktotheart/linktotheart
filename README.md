@@ -1,22 +1,17 @@
 <p align="center">
   <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <h3> Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a> </h3>
+  <h1 align="center"> Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a> </h1>
 </p>
 
 <a href="http://pulkits.netlify.app/"><img src="https://streak-stats.demolab.com?user=linktotheart&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
 [![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=linktotheart)](https://github.com/linktotheart/github-readme-stats)
 
 ### Connect with me
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultraaaaviolent)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pulkitsingh302/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ultraaaaviolent/) [<img src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/pulkitsingh302) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pulkitsingh302@gmail.com) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pulkitsingh302)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultraaaaviolent)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pulkitsingh302/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ultraaaaviolent/) 
-
-<p>I'm an experienced Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a>. 
-<!-- I have managed to work with different companies as software developer in different capacities which include;
-	<a href="https://www.aimgroup.co.tz/" target="_blank" class="btn-link">AIM Group Tanzania,</a>
-	<a href="https://web.facebook.com/iran.medical.clinic.kenya/"  target="_blank" class="btn-link">Iran Medical Clinic,</a>
-	<a href="https://linksoft.co.ke/" target="_blank" class="btn-link">linksoft telecommunication,</a>
-	<a href="https://www.thedigitalgroup.biz/"target="_blank" class="btn-link">Digital Consulting Group</a> -->
-  </p>
+<blockquote>
+<p>I'm an experienced Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a></p>
+</blockquote>
 
 ## About Me
 
@@ -63,9 +58,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A8E0A?style=for-the-badge&logo=pytest&logoColor=white)
-
-## Designing
-
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
