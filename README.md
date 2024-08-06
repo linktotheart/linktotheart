@@ -74,7 +74,7 @@
 
 ![Visitor Count Badge](https://komarev.com/ghpvc/?username=linktotheart&label=Explored%20by&color=0e75b6&style=flat)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=linktotheart&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
