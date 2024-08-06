@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
   <h1 align="center"> Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a> </h1>
 </p>
 
 <a href="http://pulkits.netlify.app/"><img src="https://streak-stats.demolab.com?user=linktotheart&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
 [![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=linktotheart)](https://github.com/linktotheart/github-readme-stats)
+
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultraaaaviolent)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pulkitsingh302/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ultraaaaviolent/) [<img src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/pulkitsingh302) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pulkitsingh302@gmail.com) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pulkitsingh302)
@@ -12,8 +13,6 @@
 <blockquote>
 <p>I'm an experienced Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a></p>
 </blockquote>
-
-[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ## About Me
 
