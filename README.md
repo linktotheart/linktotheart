@@ -1,11 +1,12 @@
 <p align="center">
   <h1 align="center"> Hey 👋, I'm <a href="http://pulkits.netlify.app/">Pulkit Singh</a> </h1>
 </p>
-<p align="center">
 
-<a href="http://pulkits.netlify.app/"><img src="https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="http://pulkits.netlify.app/"><img src="https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits" alt="GitHub Streak" /></a>
 </p>
 <a href="http://pulkits.netlify.app/"><img src="https://streak-stats.demolab.com?user=linktotheart&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
+
 [![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=linktotheart)](https://github.com/linktotheart/github-readme-stats)
 
 
