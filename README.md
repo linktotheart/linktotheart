@@ -13,6 +13,8 @@
 <p>I'm an experienced Software Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a></p>
 </blockquote>
 
+[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 ## About Me
 
 - 🌱 I’m currently working on my health and fitness. Trying to lift more than just my coffee mug!
