@@ -11,9 +11,6 @@
   <a href="http://pulkits.netlify.app/"><img src="https://github-readme-stats.vercel.app/api?username=linktotheart" alt="GitHub Streak" /></a>
 </p>
 
-[![Pulkit's GitHub stats]()
-
-
 ### Connect with me
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ultraaaaviolent)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pulkitsingh302/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ultraaaaviolent/) [<img src = "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/pulkitsingh302) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pulkitsingh302@gmail.com) [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/pulkitsingh302)
 
