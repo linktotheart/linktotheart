@@ -7,7 +7,7 @@
 </p>
 
 ## 🌐 Connect with me
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&?style=for-the-badge)](https://behance.net/pulkitsingh302) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&?style=for-the-badge)](https://instagram.com/ultraaaaaviolent) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&?style=for-the-badge)](https://linkedin.com/in/pulkitsingh2) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pulkitsingh) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&?logo=behance&logoColor=white&?style=for-the-badge)](https://behance.net/pulkitsingh302) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&?logo=Instagram&logoColor=white&?style=for-the-badge)](https://instagram.com/ultraaaaaviolent) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&?logo=linkedin&logoColor=white&?style=for-the-badge)](https://linkedin.com/in/pulkitsingh2) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pulkitsingh) 
 
 <p>I'm a Sofwtare Engineer with a demonstrated history of working in the research industry. Currently working as senior software developer at <a href="https://journeyfront.com/" target="_blank" class="btn-link" >JourneyFront</a></p>
 
