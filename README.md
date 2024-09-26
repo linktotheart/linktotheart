@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="http://pulkits.netlify.app/"><img src="https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits" alt="GitHub Streak" /></a>
+  <a href="http://pulkits.netlify.app/"><img src="https://github-widgetbox.vercel.app/api/profile?username=linktotheart&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub Streak" /></a>
 </p>
 
 ## 🌐 Connect with me
@@ -65,11 +65,11 @@
 ---
 
 # 📊 Stonks:
-![](https://github-readme-stats.vercel.app/api?username=linktotheart&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=linktotheart&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=linktotheart&?theme=default&hide_border=false&?include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=linktotheart&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=linktotheart&theme=default&hide_border=false)
+<br />
 ![Visitor Count Badge](https://komarev.com/ghpvc/?username=linktotheart&label=Explored%20by&color=0e75b6&style=flat)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=linktotheart&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=linktotheart&theme=default&no-frame=true&no-bg=false&margin-w=4)
